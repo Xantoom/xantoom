@@ -4,7 +4,7 @@
 
 I'm a Web Developer based in Metz, France, passionate about building modern and efficient web applications.
 
-I'm currently working at **Blue Wire** and always looking to improve my development skills.
+I'm currently working at **Blue Wire** (since 2022) and always looking to improve my development skills.
 
 ## 💻 Tech Stack
 
