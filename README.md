@@ -3,6 +3,7 @@
 ## 🚀 About Me
 
 I'm a Web Developer based in Metz, France, passionate about building modern and efficient web applications.
+
 I'm currently working at **Blue Wire** and always looking to improve my development skills.
 
 ## 💻 Tech Stack
@@ -10,6 +11,12 @@ I'm currently working at **Blue Wire** and always looking to improve my developm
 - **Backend**: PHP 8+, Symfony 7+
 - **Frontend**: JS/TS, React
 - **Tools**: Docker
+
+## 🎨 Hobbies
+
+- 🖌️ Anime, Manga, Animation & Drawing
+- 🖥️ Hardware & PC Building
+- 🎮 Video Games
 
 ## 📫 How to Reach Me
 
