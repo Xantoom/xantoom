@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Xavier!
 
-<!--
-**Xantoom/xantoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Web Developer based in Metz, France, passionate about building modern and efficient web applications. 
+I'm currently working at **Blue Wire** and always looking to improve my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Backend**: PHP 8+, Symfony 7+
+- **Frontend**: JS/TS, React
+
+## 📫 How to Reach Me
+
+- 🐦 Twitter: [@Xantoom](https://twitter.com/Xantoom)
+- 📧 Email: xantoom@gmail.com
+- 🔗 GitHub: [Xantoom](https://github.com/Xantoom)
+
+---
+
+💡 *Always open to new projects and collaborations!*
