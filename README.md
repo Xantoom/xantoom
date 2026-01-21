@@ -20,8 +20,7 @@ I'm currently working at **Blue Wire** (since 2022) and always looking to improv
 
 ## 📫 How to Reach Me
 
-- 🐦 Twitter: [@Xantoom](https://twitter.com/Xantoom)
-- 📧 Email: [xantoom@gmail.com](mailto:xantoom@gmail.com)
+- 📧 Email: [xavier.lauer9@gmail.com](mailto:xavier.lauer9@gmail.com)
 - 🔗 GitHub: [Xantoom](https://github.com/Xantoom)
 
 ---
