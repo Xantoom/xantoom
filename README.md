@@ -3,7 +3,10 @@
 ## 🚀 About Me
 
 I'm a Web Developer based in Metz, France, passionate about building modern and efficient web applications.
-After 3+ years at **Blue Wire** being a full stack web developer, I'm now actively seeking new opportunities starting May 2026. Feel free to reach out by email!
+
+After 3+ years at **Blue Wire** being a full stack web developer, I'm now actively seeking new opportunities starting May 2026.
+
+Feel free to reach out by email!
 
 ## 💻 Tech Stack
 
