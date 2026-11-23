@@ -26,4 +26,4 @@ Feel free to reach out by email!
 ## 📫 How to Reach Me
 
 - 📧 Email: [xavier.lauer9@gmail.com](mailto:xavier.lauer9@gmail.com)
-- 🔗 GitHub: [Xantoom](https://github.com/Xantoom)
+- 🔗 Website: [xantoom.dev](https://xantoom.dev/)
